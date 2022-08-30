@@ -1,4 +1,4 @@
-# Creating Chess-game using java 
+# Creating Chess-game using java and minimax algorithm for 2 players (human and AI)
 # INTRODUCTION:
 The aim of this project is to provide the user a functional command line chess game supporting human vs human as well as human vs AI component. We have chosen to program this game in JAVA. We have not used any existing libraries and have implement the game completely from scratch. Our code comprises a main class which is the initial class connecting both AI and human vs human. We have separate classes for individual pieces defining their legal moves and applying constraints. In the player/AI class we connected all the individual classes are created a user-friendly board.
 # USAGE GUIDELINES:
